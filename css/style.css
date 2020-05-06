@@ -1,0 +1,39 @@
+body{
+    background-color: #dbdbdb ;
+    font-family: Roboto;
+}
+.circular{
+    border-radius: 100%;
+}
+
+h1{
+    color: #f0a500;
+}
+h2{
+    color: #f0a500;
+}
+h3{
+    color: #f0a500;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkgrey;
+    border-width: 5px;
+    width: 5%;
+}
+
+.menu{
+    font-family: "Montserrat ExtraBold";
+    background-color:darkgrey ;
+}
+
+.title{
+    font-family: "Montserrat SemiBold";
+    background-color: white;
+}
+
+#table{
+    background-color: #cf7500 ;
+}
